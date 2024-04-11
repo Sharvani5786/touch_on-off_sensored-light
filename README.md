@@ -1,0 +1,1 @@
+The touch on/off sensor light using the IC 555 timer consists of an IC 555 timer, a touch sensor, and an LED. When the touch sensor is touched, it triggers the IC 555, turning on the LED. Releasing the touch sensor resets the IC, turning off the LED. This circuit provides a simple way to control a light with just a touch.
